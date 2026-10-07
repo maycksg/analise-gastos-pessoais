@@ -1,0 +1,106 @@
+﻿data;categoria;descricao;valor
+02/01/2025;Transporte;Uber e combustível;28,64
+03/01/2025;Alimentação;Mercado;253,1
+05/01/2025;Moradia;Aluguel;1200,0
+08/01/2025;Lazer;Saídas e streaming;114,97
+10/01/2025;Contas;Energia e internet;257,45
+10/01/2025;alimentacao;Mercado;222,48
+12/01/2025;Transporte;Uber e combustível;16,73
+17/01/2025;Alimentação;Mercado;203,81
+21/01/2025;Transporte;Uber e combustível;
+22/01/2025;Lazer;Saídas e streaming;36,77
+23/01/2025;Lazer;Saídas e streaming;36,97
+24/01/2025;Lazer;Saídas e streaming;129,89
+24/01/2025;LAZER;Saídas e streaming;70,05
+24/01/2025;Alimentação;Mercado;141,84
+26/01/2025;Transporte;Uber e combustível;54,36
+27/01/2025;Transporte;Uber e combustível;60,89
+27/01/2025;Transporte;Uber e combustível;60,89
+03/02/2025;Alimentação;Mercado;160,9
+04/02/2025;Lazer;Saídas e streaming;143,06
+05/02/2025;Moradia;Aluguel;1200,0
+08/02/2025;Transporte;Uber e combustível;17,58
+09/02/2025;Transporte ;Saídas e streaming;37,81
+10/02/2025;Contas;Energia e internet;233,95
+10/02/2025;Alimentação;Mercado;171,29
+12/02/2025;Lazer;Saídas e streaming;91,71
+17/02/2025;Alimentação;Mercado;183,85
+18/02/2025;Transporte;Uber e combustível;43,91
+19/02/2025;Lazer;Saídas e streaming;111,64
+20/02/2025;Transporte;Uber e combustível;33,08
+24/02/2025;Alimentação;Mercado;229,92
+25/02/2025;Lazer;Saídas e streaming;35,57
+26/02/2025;lazer;Uber e combustível;22,33
+28/02/2025;Transporte;Uber e combustível;24,15
+02/03/2025;Lazer;Saídas e streaming;77,42
+03/03/2025;Alimentação;Mercado;156,23
+03/03/2025;Alimentação;Mercado;156,23
+04/03/2025;Lazer;Saídas e streaming;52,18
+04/03/2025;Lazer;Saídas e streaming;101,75
+05/03/2025;Moradia;Aluguel;1200,0
+08/03/2025;Transporte;Uber e combustível;78,34
+10/03/2025;Alimentação;Mercado;212,75
+10/03/2025;Contas;Energia e internet;310,93
+13/03/2025;Transporte;;35,35
+15/03/2025;Transporte;Uber e combustível;21,64
+17/03/2025;Alimentação;Mercado;163,64
+18/03/2025;Lazer;Saídas e streaming;123,02
+21/03/2025;Transporte;Uber e combustível;59,01
+23/03/2025;Transporte;Uber e combustível;54,06
+24/03/2025;Alimentação;Mercado;192,81
+25/03/2025;Transporte;Uber e combustível;36,07
+28/03/2025;Transporte;Uber e combustível;35,7
+03/04/2025;Transporte;Uber e combustível;23,97
+03/04/2025;Lazer;Saídas e streaming;124,82
+03/04/2025;Alimentação;Mercado;143,14
+05/04/2025;Moradia;Aluguel;1200,0
+07/04/2025;Lazer;Saídas e streaming;108,13
+10/04/2025;Contas;Energia e internet;249,63
+10/04/2025;Alimentação;Mercado;122,19
+12/04/2025;Transporte;Uber e combustível;39,82
+12/04/2025;Transporte;Uber e combustível;62,82
+14/04/2025;Transporte;Uber e combustível;78,67
+16/04/2025;Transporte;Uber e combustível;42,81
+17/04/2025;Alimentação;Mercado;179,28
+19/04/2025;Lazer;Saídas e streaming;114,82
+24/04/2025;Alimentação;Mercado;175,28
+24/04/2025;Lazer;Saídas e streaming;31,69
+24/04/2025;Transporte;Uber e combustível;64,94
+27/04/2025;Lazer;Saídas e streaming;38,89
+27/04/2025;Transporte;Uber e combustível;57,09
+28/04/2025;Lazer;Saídas e streaming;133,57
+03/05/2025;Alimentação;Mercado;153,04
+04/05/2025;Lazer;Saídas e streaming;138,91
+05/05/2025;Moradia;Aluguel;1200,0
+07/05/2025;Transporte;Uber e combustível;45,78
+07/05/2025;Lazer;Saídas e streaming;87,04
+10/05/2025;Alimentação;Mercado;155,85
+10/05/2025;Lazer;Saídas e streaming;82,72
+10/05/2025;Contas;Energia e internet;292,17
+11/05/2025;Transporte;Uber e combustível;30,23
+13/05/2025;Transporte;Uber e combustível;20,77
+13/05/2025;Transporte;Uber e combustível;37,17
+17/05/2025;Alimentação;Mercado;125,66
+19/05/2025;Lazer;Saídas e streaming;33,77
+24/05/2025;Alimentação;Mercado;219,49
+27/05/2025;Transporte;Uber e combustível;67,11
+28/05/2025;Transporte;Uber e combustível;84,73
+01/06/2025;Lazer;Saídas e streaming;62,66
+03/06/2025;Lazer;Saídas e streaming;30,83
+03/06/2025;Alimentação;Mercado;183,91
+05/06/2025;Transporte;Uber e combustível;66,93
+05/06/2025;Moradia;Aluguel;1200,0
+10/06/2025;Transporte;Uber e combustível;40,32
+10/06/2025;Contas;Energia e internet;230,55
+10/06/2025;Alimentação;Mercado;150,58
+15/06/2025;Transporte;Uber e combustível;27,62
+17/06/2025;Transporte;Uber e combustível;19,87
+17/06/2025;Alimentação;Mercado;178,31
+20/06/2025;Lazer;Saídas e streaming;72,31
+24/06/2025;Alimentação;Mercado;243,66
+24/06/2025;Transporte;Uber e combustível;67,73
+25/06/2025;Lazer;Saídas e streaming;68,16
+26/06/2025;Lazer;Saídas e streaming;44,65
+26/06/2025;Transporte;Uber e combustível;87,18
+27/06/2025;Lazer;Saídas e streaming;81,25
+27/06/2025;Transporte;Uber e combustível;46,31
